@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXITINF:-1 , Canal 1
+#EXITINF:-1 tvg-chno="8", tvg-country="ECU", tvg-logo="https://www.ecuavisa.com/base-portlet/webrsrc/ctxvar/c2c3b2f6-1d72-4d98-b109-9d6cbecf69ec.png", tvg-id="Ecuavisa.ECU", group-title="Canales Ecuador", Ecuavisa
 
-link enlace
+https://mdstrm.com/live-stream/603ea23f928cc5255563012c/mse/true
 
-#EXITINF:-1 , Canal 2
-
-link enlace
