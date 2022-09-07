@@ -1,4 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 , RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+
 #EXTINF:-1 , Ecuavisa
 https://mdstrm.com/live-stream/603ea23f928cc5255563012c/mse/true
