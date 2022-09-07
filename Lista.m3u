@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 , RTS
+#EXTINF:-1 tvg-chno="5" tvg-country="ec" tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" tvg-id="RTS.ec" group-title="Ecuador", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 
-#EXTINF:-1 , Ecuavisa
+#EXTINF:-1 tvg-chno="8" tvg-country="ec" tvg-logo="https://www.ecuavisa.com/base-portlet/webrsrc/ctxvar/c2c3b2f6-1d72-4d98-b109-9d6cbecf69ec.png" tvg-id="Ecuavisa.ec" group-title="Ecuador", Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
