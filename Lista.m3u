@@ -16,7 +16,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-country="ec" tvg-logo="https://www.ecuavisa.com/base-portlet/webrsrc/ctxvar/c2c3b2f6-1d72-4d98-b109-9d6cbecf69ec.png" tvg-id="Ecuavisa.ec" group-title="Ecuador", Ecuavisa
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+https://rudo.video/live/ecuavisa
 
 #EXTINF:-1 tvg-chno="9" tvg-country="ec" tvg-logo="https://www.telerama.ec/apple-touch-icon-180x180.png" tvg-id="Telerama.ec" group-title="Ecuador", Telerama
 https://envivo.telerama.ec/?utm_source=vivoclick&utm_medium=web&utm_campaign=envivo
