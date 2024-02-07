@@ -4,7 +4,7 @@
 https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-country="ec" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/01/web.png" tvg-id="Teleamazonas.ec" group-title="Ecuador", Teleamazonas
-https://www.dailymotion.com/embed/video/x8dhua9?autoplay=1
+https://cdn.jwplayer.com/players/VW0nNgjp-1k0Xjzae.html
 
 #EXTINF:-1 tvg-chno="5" tvg-country="ec" tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" tvg-id="RTS.ec" group-title="Ecuador", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
