@@ -22,7 +22,7 @@ https://rudo.video/rudo.m3u8
 https://envivo.telerama.ec/?utm_source=vivoclick&utm_medium=web&utm_campaign=envivo
 
 #EXTINF:0 tvg-chno="10" tvg-country="ec" tvg-logo="https://www.tctelevision.com/tc_c.png" tvg-id="TC.ec" group-title="Ecuador", TC
-https://www.dailymotion.com/embed/video/x7wijay?autoplay=1
+https://geo.dailymotion.com/player/x9rx1.html?video=x7wijay
 
 #EXTINF:-1 tvg-chno="11" tvg-country="ec" tvg-logo="https://i0.wp.com/canalrtu.tv/wp-content/uploads/2022/07/cropped-favicon-rtu.png?fit=192%2C192&ssl=1" tvg-id="Rtu.ec" group-title="Ecuador", RTU
 https://makrodigital.com/makrostreaming/rtutv/
@@ -32,3 +32,6 @@ https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-country="ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-id="Gamavision.ec" group-title="Ecuador", Gamavision
 https://view.yololiv.com/embed/1144278368561139712?eventId=1144278368561139712&isEmbedPage=1&mediaType=events&filter=event&isCountdown=0&isDonation=0&isThumbnail=0&isPreEvent=0&isDesc=0&isDoc=0&isVideoIndex=0&isHightLights=0&isPlayList=0&isChat=0&isBrand=0&brandType=default&isTwoColumn=0&isAutoPlay=1&isInlinePlay=0&isDisableDVR=0&sizeType=responsive&isCoverText=0&isPlayLogo=0
+
+#EXTINF:-1 tvg-chno="14" tvg-country="ec" tvg-logo="https://www.educa.ec/wp-content/uploads/2022/11/logo-educa-2022-05.png" tvg-id="Educa.ec" group-title="Ecuador", Educa
+https://educa.streamingcnt.net
