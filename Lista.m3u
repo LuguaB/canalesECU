@@ -7,7 +7,7 @@ https://d6op0qag07k4o.cloudfront.net/hls/tvc.m3u8
 https://cdn.jwplayer.com/players/VW0nNgjp-1k0Xjzae.html
 
 #EXTINF:-1 tvg-chno="5" tvg-country="ec" tvg-logo="https://www.rts.com.ec/wp-content/uploads/2020/11/logo.png" tvg-id="RTS.ec" group-title="Ecuador", RTS
-https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-chno="6" tvg-country="ec" tvg-logo="https://oromartv.com/wp-content/uploads/2020/07/LOGOOTVCOLORES-e1645648356294.png" tvg-id="Oromar.ec" group-title="Ecuador", OromarTV
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
