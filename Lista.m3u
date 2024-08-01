@@ -29,3 +29,6 @@ https://makrodigital.com/makrostreaming/rtutv/
 
 #EXTINF:-1 tvg-chno="12" tvg-country="ec" tvg-logo="https://web.canelatv.com/wp-content/uploads/2020/10/cropped-LOGO_Mesa-de-trabajo-1-2-192x192.png" tvg-id="Canelatv.ec" group-title="Ecuador", CanelaTV
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-country="ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-id="Gamavision.ec" group-title="Ecuador", Gamavision
+https://view.yololiv.com/embed/1144278368561139712?eventId=1144278368561139712&isEmbedPage=1&mediaType=events&filter=event&isCountdown=0&isDonation=0&isThumbnail=0&isPreEvent=0&isDesc=0&isDoc=0&isVideoIndex=0&isHightLights=0&isPlayList=0&isChat=0&isBrand=0&brandType=default&isTwoColumn=0&isAutoPlay=1&isInlinePlay=0&isDisableDVR=0&sizeType=responsive&isCoverText=0&isPlayLogo=0
